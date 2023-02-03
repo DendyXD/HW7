@@ -66,10 +66,6 @@ a {
   vertical-align: middle;
 }
 
-svg {
-    fill: currentColor;
-}
-
 .tel::before {
   content: url("./imges/icons/Vector.svg");
   margin-right: 5px;
@@ -146,6 +142,7 @@ svg {
   line-height: 16px;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  padding-top: 94pxtgggggvg;
 
   color: #212121;
 }
@@ -200,7 +197,6 @@ svg {
   font-weight: 400;
   font-size: 16px;
   line-height: 19px;
-  /* text-align: center; */
   letter-spacing: 0.03em;
 
   color: #757575;
